@@ -11,3 +11,10 @@
 .labelwid {
     background-color: paleturquoise !important;
 }
+
+@media (max-width: 800px) {
+    .sp {
+        display: block;
+        text-align: left;
+    }
+}
