@@ -1,0 +1,13 @@
+* {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 15px;
+}
+
+.wid {
+    width: 35vw;
+    height: auto;
+}
+
+.labelwid {
+    background-color: paleturquoise !important;
+}
